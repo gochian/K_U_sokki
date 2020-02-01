@@ -1,0 +1,15 @@
+.mainoutline{
+    display: flex;
+}
+.migi{
+    margin: 40px;
+
+}
+.hidari{
+    margin: 40px;
+}
+
+.mainoutline .under{
+    margin: 1px;
+    border-bottom: solid 2px black;
+}

@@ -1,0 +1,28 @@
+@media screen and (max-width: 499px) { 
+    /*　画面サイズ 499pxまで適用　*/
+
+    /*footer setting*/
+    p{
+        padding: 10px;
+    }
+
+    img{
+        height: 200px;
+    }
+
+    .wrapMain-infoNews-list{
+        height: 200px;
+    }
+}
+
+
+
+  /*
+  @media screen and (min-width: 500px) and (max-width: 999px) {
+    　画面サイズ 500pxから999pxまで適用　
+  }
+  /*
+  @media screen and (min-width:1000px) {
+    画面サイズ 1000px以上から適用　
+  }
+  */

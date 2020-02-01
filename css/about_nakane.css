@@ -1,0 +1,19 @@
+.articlesection{
+    width: 100%;
+}
+
+.wrapMain-infoWrap{
+    min-height: 700px;
+    height: 100%;
+    width: 100%;
+}
+
+.articlesection .img1{
+    text-align:center;
+}
+
+.articlesection .under{
+    margin: 1px;
+    border-bottom: solid 2px black;
+}
+
