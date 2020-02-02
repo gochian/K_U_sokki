@@ -38,7 +38,7 @@
             color: #fff;
             text-align: center;
             /*ナビの背景設定*/
-            background:linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)),url('//web.fc2.com/fc2img/designtemplates/common/img_250-250.png') center center / 100% auto no-repeat fixed;
+            background:linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)),url('../img/navimg.jpg') center center / 100% auto no-repeat fixed;
             position:relative;
         }
         .wrapNavbar-wrap{
@@ -115,7 +115,7 @@
             .wrapNavbar {/*サイトタイトル・ナビ領域の設定*/
                 width: 100%;
                 padding: 80px 0;
-                background:linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)),url('//web.fc2.com/fc2img/designtemplates/common/img_1920-1200.png') center center no-repeat fixed;
+                background:linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)),url('../img/navimg.jpg') center center no-repeat fixed;
                 background-size: cover;
             }
             .wrapNavbar-wrap{
