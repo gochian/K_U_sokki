@@ -16,7 +16,22 @@
 
     .submenu__item a {
       color: #64646c;
+      font-size: medium;
+
     }
+
+
+    
+    
+  
+    .submenu__item {
+      color: #222;
+    }
+  
+  
+  
+  
+
 }
 
 
