@@ -115,7 +115,7 @@
             .wrapNavbar {/*サイトタイトル・ナビ領域の設定*/
                 width: 100%;
                 padding: 80px 0;
-                background:linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)),url('../img/navimg.jpg') center center no-repeat fixed;
+                background:linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)),url('../img/navimg1.jpg') center center no-repeat fixed;
                 background-size: cover;
             }
             .wrapNavbar-wrap{
@@ -496,3 +496,10 @@
                 display: none !important;
             }
         }
+
+        .submenu {
+            display: none;
+          }
+        .submenu__item a {
+            color: rgb(255, 255, 255);
+          }
