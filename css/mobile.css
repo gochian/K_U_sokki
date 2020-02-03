@@ -13,6 +13,10 @@
     .wrapMain-infoNews-list{
         height: 200px;
     }
+
+    .submenu__item a {
+      color: #64646c;
+    }
 }
 
 
