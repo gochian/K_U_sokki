@@ -1,6 +1,28 @@
-.submenu {
+.menu__item {
+    color: #fff;
+    cursor: pointer;
+
+  }
+  .menu__item__link {
+    color: #fff;
+  }
+   
+  .submenu {
     display: none;
   }
-.submenu__item a {
-    color: rgb(255, 255, 255);
+
+  .submenu :hover {
+    background-color: #c2c2c2;
+    transition: all .3s;
+
+
+}
+  .submenu__item {
+    color: #222;
   }
+
+  .submenu__item a{
+      color: #fff;
+      font-size: medium;
+  }
+
