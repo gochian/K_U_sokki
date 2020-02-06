@@ -1,0 +1,13 @@
+.ans .menu__item {
+    cursor: pointer;
+    display: block;
+  }
+ .ans .menu__item__link {
+    color: #c2c2c2;
+    display: block;
+  }
+   
+ .ans .submenu {
+    background: #fffefe;
+    display: none;
+  }

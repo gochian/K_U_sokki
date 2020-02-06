@@ -11,10 +11,9 @@
     display: none;
   }
 
-  .submenu :hover {
+  .wrapNavbar-wrapNavList .submenu :hover {
     background-color: #c2c2c2;
     transition: all .3s;
-
 
 }
   .submenu__item {
